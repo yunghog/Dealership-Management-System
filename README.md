@@ -12,3 +12,6 @@ Dealership Management System (DMS) is a java  application which can be implement
   <li> JAVA - Frontend and Backend</li>
   <li> SQL - Database</li>
  </ul>
+
+# Installation : <br>
+Clone the repository and unzip the contents. 
