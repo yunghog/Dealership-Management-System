@@ -15,4 +15,4 @@ Dealership Management System (DMS) is a java  application which can be implement
 
 # Installation : <br>
 Clone the repository and unzip the contents. Open the unzipped folder, create a new shortcut. Change the target of <br>
-the shortcut to "<i>java garage.jar</i>". Open the shortcut to run the application.
+the shortcut to "<i>java garage.jar</i>". Open the shortcut to run the application
