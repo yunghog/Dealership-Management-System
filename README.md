@@ -1,7 +1,7 @@
 # Dealership-Management-System
 Dealership Management System (DMS) is a java  application which can be implemented in an Automobile Workshops or Vehicle Service Centers to maintain and manipulate the records of jobs, work orders and other properties. This provides a minimal UI which is easy to understand. 
 
-## Requirements :
+## Requirements : 
 - JAVA JDK
 - Oracle XE or newer 
 ## Language used :
